@@ -5,12 +5,7 @@ Welcome to the Learn-Python repository! Whether you're a beginner or looking to 
 ## Table of Contents 📚
 
 - [Introduction](#introduction)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Projects](#projects)
-- [Contributing](#contributing)
-- [License](#license)
+- [Getting Started](#Fundamentals)
 
 ## Introduction
 
