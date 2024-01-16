@@ -55,6 +55,9 @@ An Application Programming Interface (API) serves as a critical bridge in modern
 
 - **Example:** GitHub's API uses GraphQL, allowing developers to request specific information about repositories, issues, and users based on their needs.
 
+Great Linkedin Post by Brij Pandey!
+![](https://media.licdn.com/dms/image/D4E22AQGYCMS8Rop4tA/feedshare-shrink_800/0/1698457900830?e=2147483647&v=beta&t=Ko8Zi9TOmds9yDeRoUcgCK8X8AbEQGV6XrtoXNPvNzo)
+
 ## Key Components
 
 ### Endpoints:
