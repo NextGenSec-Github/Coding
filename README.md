@@ -22,6 +22,9 @@ This repository is a comprehensive resource to learn Python through hands-on pro
    ```bash
    git clone https://github.com/yourusername/Learn-Python.git
 
+2. **Navigate to a Project:**
+   ```bash
+   cd Learn-Python/ProjectName
 
 # Explore the Project
 
