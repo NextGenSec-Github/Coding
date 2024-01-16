@@ -24,7 +24,7 @@ This repository is a comprehensive resource to learn Python through hands-on pro
 
 2. **Navigate to a Project:**
    ```bash
-   cd Learn-Python/ProjectName
+   cd Learn-Python/Projects/ProjectName
 
 # Explore the Project
 
