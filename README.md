@@ -37,11 +37,11 @@ If you create your own projects or improve existing ones, consider contributing 
   Each project has its dedicated folder with a README.md file, code files, and any necessary resources.
 
 - **/Fundamentals:**
-  Explore fundamental Python concepts in dedicated folders. Each topic includes exercises and examples to reinforce learning.
+  Explore fundamental Python concepts in dedicated folders.
 
 # Getting Started
 
-If you're new to Python, start with the fundamentals in the `/Fundamentals` directory. If you're already familiar, jump into the projects that interest you. Every project folder contains a README with instructions, expected outcomes, and guidance.
+If you're new to Python, start with the fundamentals in the `/Fundamentals` directory. If you're already familiar, jump into the projects that interest you. Every project folder contains instructions, expected outcomes, and guidance.
 
 # Projects
 
