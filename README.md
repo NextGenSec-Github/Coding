@@ -36,7 +36,7 @@ If you create your own projects or improve existing ones, consider contributing 
 
 # Project Structure
 
-- **/ProjectName:**
+- **Projects/ProjectName:**
   Each project has its dedicated folder with a README.md file, code files, and any necessary resources.
 
 - **/Fundamentals:**
