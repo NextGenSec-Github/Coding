@@ -27,3 +27,9 @@ def get_currency(in_currency, out_currency):
 
     return rate
 ```
+
+- The get_currency function takes two currency codes (in_currency and out_currency) as parameters.
+- It constructs a URL to fetch the exchange rate from x-rates.com.
+- It makes a request to the website, gets the HTML content, and parses it using BeautifulSoup.
+- It extracts the exchange rate from the HTML using the specified class (ccOutputRslt).
+- The rate is converted to a float after removing the unnecessary characters.
